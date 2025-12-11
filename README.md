@@ -20,7 +20,7 @@ Data cleaning & preprocessing
 
 This project is ideal for data analysis, visualization practice, and understanding app-store market behavior.
 
-📁 Repository Structure
+##📁 Repository Structure
 Google_play_store_analysis_ML/
 │
 ├── data/
