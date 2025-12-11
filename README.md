@@ -32,7 +32,7 @@ Google_play_store_analysis_ML/
 ├── README.md
 └── requirements.txt
 
-📊 Dataset Description
+##📊 Dataset Description
 
 The dataset used contains the following key features:
 
