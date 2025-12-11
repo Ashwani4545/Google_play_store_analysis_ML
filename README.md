@@ -1,5 +1,5 @@
 # 📊 Google Play Store Data Analysis — EDA & Insights
-📌 Project Overview
+##📌 Project Overview
 
 This project performs an exploratory data analysis (EDA) of Google Play Store applications to uncover trends, patterns, and actionable insights about the Android app ecosystem.
 It analyzes more than 10,000+ apps across categories, ratings, installs, pricing models, genres, and user engagement.
