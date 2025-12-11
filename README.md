@@ -62,7 +62,7 @@ Converted categories and ratings
 
 Formatted dates
 
-✔ Visual Explorations
+###✔ Visual Explorations
 
 Number of apps per category
 
