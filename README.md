@@ -52,7 +52,7 @@ Current Ver	Current version
 Android Ver	Required Android version
 
 ## 🔍 Key Analysis Performed
-###✔ Data Cleaning
+### ✔ Data Cleaning
 
 Removed duplicates
 
