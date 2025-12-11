@@ -76,7 +76,7 @@ Free vs Paid app comparisons
 
 Top-grossing app categories
 
-✔ Insights Extracted (Examples)
+### ✔ Insights Extracted (Examples)
 
 Categories like FAMILY, GAME, TOOLS dominate the Play Store.
 
