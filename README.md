@@ -1,4 +1,4 @@
-📊 Google Play Store Data Analysis — EDA & Insights
+#📊 Google Play Store Data Analysis — EDA & Insights
 📌 Project Overview
 
 This project performs an exploratory data analysis (EDA) of Google Play Store applications to uncover trends, patterns, and actionable insights about the Android app ecosystem.
